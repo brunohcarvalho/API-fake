@@ -1,0 +1,50 @@
+{
+    "patients": [
+      {
+        "id": 1,
+        "fullName": "Ana Clara Silva",
+        "age": 28,
+        "gender": "Feminino",
+        "hygiaNumber": "12345678901",
+        "email": "ana.clara@example.com",
+        "categoria": "Drogas"
+      },
+      {
+        "id": 2,
+        "fullName": "Bruno Souza Oliveira",
+        "age": 35,
+        "gender": "Masculino",
+        "hygiaNumber": "23456789012",
+        "email": "bruno.souza@example.com",
+        "categoria": "Depressão"
+      },
+      {
+        "id": 3,
+        "fullName": "Carlos Eduardo Santos",
+        "age": 42,
+        "gender": "Masculino",
+        "hygiaNumber": "34567890123",
+        "email": "carlos.santos@example.com",
+        "categoria": "Ansiedade"
+      },
+      {
+        "id": 4,
+        "fullName": "Daniela Pereira Costa",
+        "age": 30,
+        "gender": "Feminino",
+        "hygiaNumber": "45678901234",
+        "email": "daniela.costa@example.com",
+        "categoria": "Violência doméstica"
+      },
+      {
+        "id": 5,
+        "fullName": "Eliane Rodrigues Lima",
+        "age": 26,
+        "gender": "Feminino",
+        "hygiaNumber": "56789012345",
+        "email": "eliane.lima@example.com",
+        "categoria": "Luto"
+      }
+    ]
+}
+  
